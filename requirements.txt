@@ -47,7 +47,7 @@ charset-normalizer==2.1.0
 check-manifest==0.48
 #click @ file:///home/linux1/recipes/ci/click_1610990599742/work
 #cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1598884132938/work
-clyent==1.2.2
+#clyent==1.2.2
 cmarkgfm==0.8.0
 #colorama @ file:///tmp/build/80754af9/colorama_1607707115595/work
 conda==4.13.0
