@@ -215,7 +215,7 @@ plaster-pastedeploy==0.7
 platformdirs==2.5.2
 #pluggy @ file:///opt/concourse/worker/volumes/live/2d655872-b6f5-4225-538c-dd87e481f5c8/volume/pluggy_1615976700299/work
 ply==3.11
-pmdarima==1.8.5
+#pmdarima==1.8.5
 pptree==3.1
 #prometheus-client @ file:///tmp/build/80754af9/prometheus_client_1618088486455/work
 #prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1616415428029/work
