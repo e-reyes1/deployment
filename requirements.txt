@@ -127,7 +127,7 @@ Janome==0.4.2
 jdcal==1.4.1
 #jedi @ file:///opt/concourse/worker/volumes/live/12a2c347-a8e4-4b62-5b19-dcc92a2254f6/volume/jedi_1606932552286/work
 Jinja2==3.1.2
-joblib @ file:///tmp/build/80754af9/joblib_1613502643832/work
+#joblib @ file:///tmp/build/80754af9/joblib_1613502643832/work
 json5==0.9.5
 #jsonschema @ file:///tmp/build/80754af9/jsonschema_1602607155483/work
 jupyter==1.0.0
