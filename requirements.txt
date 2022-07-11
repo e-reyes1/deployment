@@ -210,7 +210,7 @@ pep8==1.7.1
 #pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
 #pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 #Pillow @ file:///opt/concourse/worker/volumes/live/ca23594b-6e35-4c8c-5637-50ac0b550473/volume/pillow_1617386168018/work
-pkginfo==1.7.0
+#pkginfo==1.7.0
 plaster==1.0
 plaster-pastedeploy==0.7
 platformdirs==2.5.2
@@ -225,7 +225,7 @@ protobuf==3.19.4
 #psutil @ file:///opt/concourse/worker/volumes/live/0673cd4b-30c1-4470-7490-d8955610f5d5/volume/psutil_1612298002202/work
 #ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
 #py @ file:///tmp/build/80754af9/py_1607971587848/work
-#===Esta====py4j==0.10.9.5
+py4j==0.10.9.5
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 #pycodestyle @ file:///home/ktietz/src/ci_mi/pycodestyle_1612807597675/work
@@ -314,7 +314,7 @@ tabulate==0.8.9
 #termcolor==1.1.0
 #terminado==0.9.4
 #testpath @ file:///home/ktietz/src/ci/testpath_1611930608132/work
-$textblob==0.17.1
+#textblob==0.17.1
 #textdistance @ file:///tmp/build/80754af9/textdistance_1612461398012/work
 #threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
 #three-merge @ file:///tmp/build/80754af9/three-merge_1607553261110/work
