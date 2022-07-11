@@ -2,7 +2,7 @@ absl-py==1.1.0
 aiohttp==3.8.1
 aiosignal==1.2.0
 #anaconda-client==1.7.2
-anaconda-navigator==2.0.3
+#anaconda-navigator==2.0.3
 appdirs==1.4.4
 applaunchservices==0.2.1
 #appnope @ file:///opt/concourse/worker/volumes/live/5f13e5b3-5355-4541-5fc3-f08850c73cf9/volume/appnope_1606859448618/work
