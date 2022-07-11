@@ -40,3 +40,11 @@ virtualenv==20.15.1
 voila==0.3.5
 webencodings==0.5.1
 widgetsnbextension==3.5.1
+pyparsing==2.4.7
+devpi==2.2.0
+devpi-client==5.2.3
+devpi-common==3.6.0
+devpi-server==6.5.1
+devpi-web==4.0.8
+grpcio==1.47.0
+notebook==7.0.0
