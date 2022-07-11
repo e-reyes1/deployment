@@ -144,7 +144,7 @@ keras==2.9.0
 Keras-Preprocessing==1.1.2
 #keyring @ file:///opt/concourse/worker/volumes/live/107edf16-ab8b-49bb-692b-65f944af2b43/volume/keyring_1614616747185/work
 #kiwisolver @ file:///opt/concourse/worker/volumes/live/0b2f3e77-eaa3-4995-7dd0-c994762fcbde/volume/kiwisolver_1612282417472/work
-konoha==4.6.5
+#konoha==4.6.5
 #korean-lunar-calendar==0.2.1
 langdetect==1.0.9
 lazy==1.4
