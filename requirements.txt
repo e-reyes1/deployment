@@ -236,7 +236,7 @@ pycurl==7.43.0.6
 #pyls-black @ file:///tmp/build/80754af9/pyls-black_1607553132291/work
 #pyls-spyder @ file:///tmp/build/80754af9/pyls-spyder_1613849700860/work
 PyMeeus==0.5.11
-pyodbc===4.0.0-unsupported
+#pyodbc===4.0.0-unsupported
 #pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
 #pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
 pyramid==2.0
@@ -308,7 +308,7 @@ tensorflow==2.9.1
 tensorflow-estimator==2.9.0
 tensorflow-io-gcs-filesystem==0.26.0
 termcolor==1.1.0
-terminado==0.9.4
+#terminado==0.9.4
 #testpath @ file:///home/ktietz/src/ci/testpath_1611930608132/work
 textblob==0.17.1
 #textdistance @ file:///tmp/build/80754af9/textdistance_1612461398012/work
