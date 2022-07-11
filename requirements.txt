@@ -121,7 +121,7 @@ importlib-metadata==4.12.0
 #ipython @ file:///opt/concourse/worker/volumes/live/c432d8a7-d8f3-4e24-590f-f03d7e5f35e1/volume/ipython_1617120884257/work
 #ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
 #ipywidgets @ file:///tmp/build/80754af9/ipywidgets_1610481889018/work
-isort @ file:///tmp/build/80754af9/isort_1616355431277/work
+#isort @ file:///tmp/build/80754af9/isort_1616355431277/work
 #itsdangerous @ file:///home/ktietz/src/ci/itsdangerous_1611932585308/work
 Janome==0.4.2
 jdcal==1.4.1
