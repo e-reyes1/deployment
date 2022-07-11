@@ -114,7 +114,7 @@ hyperopt==0.2.7
 #imageio @ file:///tmp/build/80754af9/imageio_1617700267927/work
 #imagesize @ file:///home/ktietz/src/ci/imagesize_1611921604382/work
 #imbalanced-learn==0.9.1
-importlib-metadata==4.12.0
+# sera este importlib-metadata==4.12.0
 #iniconfig @ file:///home/linux1/recipes/ci/iniconfig_1610983019677/work
 #intervaltree @ file:///tmp/build/80754af9/intervaltree_1598376443606/work
 #ipykernel @ file:///opt/concourse/worker/volumes/live/88f541d3-5a27-498f-7391-f2e50ca36560/volume/ipykernel_1596206680118/work/dist/ipykernel-5.3.4-py3-none-any.whl
